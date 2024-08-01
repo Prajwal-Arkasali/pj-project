@@ -1,4 +1,4 @@
 # pj-project
 This is my first repository.
 <br>
-Author-prajwal Arkasli
+Author-prajwal Arkasali
